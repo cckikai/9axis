@@ -1,12 +1,15 @@
 # 9axisロガー
 ビット・トレード・ワン社の「ADRSZGR ゼロワン9軸センサ拡張基板」を使ったプログラムです。
 
-0.05秒間隔で9軸センサの値を記録して、取得時間とともに保存します。
+- [ADRSZGR ゼロワン 9軸センサ拡張基板(BitTradeOne.)](https://bit-trade-one.co.jp/adrszgr/)
+- [ADRSZGR ゼロワン 9軸センサ拡張基板 サンプルPythonスクリプト/ライブラリ取り扱い説明書](https://github.com/bit-trade-one/RasPi-Zero-One-Series/tree/master/3rd/ADRSZGR_9-Axis_Gyro)
 
+0.05秒間隔で9軸センサの値を記録して、取得時間とともに保存します。
 Raspberry Pi用高精度リアルタイムクロックモジュール基板は、多摩デバイスのRV8803-RASPIを使用しました。
 
-https://github.com/bit-trade-one/RasPi-Zero-One-Series/tree/master/3rd/ADRSZGR_9-Axis_Gyro
-https://www.marutsu.co.jp/pc/i/1556264/
+- [Raspberry Pi用高精度リアルタイムクロックモジュール基板(マルツオンライン)](https://www.marutsu.co.jp/pc/i/1556264/)
+- [Raspberry Pi で RV8803 (RTC) のモジュールを使う(Qiita)](https://qiita.com/mml/items/ce9d130b73ed359e9d06)
+- [ラズベリーパイ：起動時に自動実行したい(人生は読めないブログ)](https://torisky.com/%E3%83%A9%E3%82%BA%E3%83%99%E3%83%AA%E3%83%BC%E3%83%91%E3%82%A4%EF%BC%9A%E8%B5%B7%E5%8B%95%E6%99%82%E3%81%AB%E8%87%AA%E5%8B%95%E5%AE%9F%E8%A1%8C%E3%81%97%E3%81%9F%E3%81%84/)
 
 # Licence
 Assembly Desk License
